@@ -1,18 +1,30 @@
 # financeiq-pro-ai-expense-analyzer
-🤖 AI-Powered Smart Expense Analyzer with Machine Learning | Random Forest Classification | Anomaly Detection | Interactive Streamlit Dashboard | 90%+ Prediction Accuracy
-# 🤖 AI-Powered Smart Expense Analyzer
+# 🤖 AI-Powered Smart Expense Analyzer | Machine Learning 💸📊
 
-A smart, interactive expense analyzer that leverages Machine Learning — including Random Forest classification and anomaly detection — to help you track, classify, and optimize your expenses. Built with Streamlit for an intuitive dashboard experience and boasting over **90% prediction accuracy**!
-
----
-
-## 🚀 Features
-
-- **Expense Classification:** Automatically categorize your expenses using a powerful Random Forest model.
-- **Anomaly Detection:** Spot unusual spending patterns so you can save smarter.
-- **Interactive Dashboard:** Easily add, view, and analyze expenses with a clean Streamlit UI.
-- **Accurate Predictions:** Over 90% accuracy on classification, helping you make informed decisions.
-- **Simple Setup:** Run locally with minimal hassle.
+An intelligent expense analyzer with **Random Forest classification**, **anomaly detection**, and an **interactive Streamlit dashboard**. Perfect for tracking, classifying, and optimizing your expenses with over **90% prediction accuracy**!
 
 ---
 
+## 🔧 Features
+- ✅ Classify expenses using Random Forest ML model  
+- 🔍 Detect anomalies to spot unusual spending  
+- 📊 Interactive Streamlit dashboard for easy data input & visualization  
+- 🎯 Achieves 90%+ prediction accuracy  
+- 💡 Simple manual expense entry  
+
+---
+
+## 🛠 Tech Stack
+- Python 3.7+  
+- Streamlit  
+- scikit-learn (Random Forest)  
+- pandas, matplotlib  
+
+---
+
+## 🚀 How to Use
+1. Place your project files in one folder  
+2. Run the Streamlit app:
+
+   ```bash
+   streamlit run app.py
